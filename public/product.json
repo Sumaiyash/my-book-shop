@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "picture": "https://m.maccosmetics.com/media/export/cms/products/640x600/mac_sku_M6JC02_640x600_0.jpg",
+        "name": "Studio Fix MAC Foundation",
+        "price": "780.45"
+    },
+    {
+        "id": "2",
+        "picture": "https://ik.imagekit.io/vxq4kkwdo2z/media/catalog/product/cache/f2258dba77244d91feb87ad3a8f01e9e/w/a/warm_porcelian_1.jpg",
+        "name": "Warm Porcelain - Rose Serum Foundation",
+        "price": "900.00"
+    },
+    {
+        "id": "3",
+        "picture": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/makeup/face/foundation-makeup/infallible-pro-matte-foundation/natural-beige-105/071249293041_t1.png?w=200&hash=17FD68042A992B8A18FCBA52933AECF5EAE03169",
+        "name": "Infallible Up to 24H Fresh Wear Foundation in a Powder ",
+        "about": "450.00"
+    },
+    {
+        "id": "4",
+        "picture": "https://www.banglashoppers.com/media/catalog/product/cache/323f12c99b230d9cbd71d949e06824a6/s/i/simple-kind-to-skin-hydrating-light-moisturiser-125ml.jpg",
+        "name": "Simple Kind To Skin Hydrating Light Moisturiser - 125ml",
+        "about": "260.30 "
+    },
+    {
+        "id": "5",
+        "picture": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1593766350-rei96fu1ivotuohz9gvn.jpg?crop=0.800xw:1xh;center,top&resize=480:*",
+        "name": "CeraVe Moisturizing Cream ",
+        "about": "380.45"
+    },
+    {
+        "id": "6",
+        "picture": "https://www.cetaphil.com.au/sites/default/files/styles/zoom_image_style/public/Cetaphil%20Moisturising%20Cream%20550g-1.png",
+        "name": "Cetaphil Moisturising Cream",
+        "about": "300.50"
+    },
+    {
+        "id": "7",
+        "picture": "https://www.maybelline.com/~/media/mny/global/face-makeup/primer/baby-skin-instant-pore-eraser/maybelline-face-primer-baby-skin-pore-eraser-041554415131-c.jpg?thn=0&w=380&hash=C3F27975229602E786FC243BDDBAF6C90C4F9C71",
+        "name": "BABY SKIN® INSTANT PORE ERASER®",
+        "about": "250.85"
+    },
+    {
+        "id": "8",
+        "picture": "https://m.media-amazon.com/images/I/518E-RmjKHL._SY355_.jpg",
+        "name": "Blue Heaven Studio Perfection Primer, Clear, 30G",
+        "about": "200.00"
+    },
+    {
+        "id": "9",
+        "picture": "https://cdn.shopify.com/s/files/1/2268/5321/products/EvelineMakeupprimerMattifying_2048x.jpg?v=1622357109",
+        "name": "EVELINE Make-Up Primer",
+        "about": "120.50"
+    },
+    {
+        "id": "10",
+        "picture": "https://5.imimg.com/data5/DK/LP/HS/SELLER-88811941/morphe-x-jaclyn-hill-eyeshadow-palette-500x500.JPG",
+        "name": "Multicolor Jaclyn Hill Eyeshadow Palette - MORPHE, ",
+        "about": "96.87 "
+    },
+    {
+        "id": "11",
+        "picture": "https://www.bigbasket.com/media/uploads/p/xxl/40204627_2-miss-claire-ultra-glow-eyeshadow-palette.jpg",
+        "name": "Miss Claire Ultra Glow Eyeshadow Palette",
+        "price": "85.60"
+    },
+    {
+        "id": "12",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSgmmWWDgNxZocBaKblkO9KOUDx5r-TcW0oA&usqp=CAU",
+        "name": "UCANBE Pretty All Set Eyeshadow Palette",
+        "price": "120.25"
+    }
+]

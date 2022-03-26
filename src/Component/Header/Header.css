@@ -1,0 +1,25 @@
+.header{
+    display: flex;
+    align-items: center;
+    background-color: rgb(43, 39, 39);
+    color: azure;
+    justify-content: space-between;
+    padding-right: 30px;
+    padding-left: 200px;
+   
+}
+.header h3{
+    text-align: center;
+}
+.header a{
+    text-decoration: none;
+    gap: 10px;
+    color: azure;
+    font-size: 20px;
+    margin-left: 17px;
+}
+.header a:hover{
+    background-color: rgb(99, 121, 121);
+    color: azure;
+    font-size: 30px;
+}
