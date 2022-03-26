@@ -1,0 +1,26 @@
+.producst-details{
+    width: 300px;
+    height: 510px;
+    border: 3px solid rgb(178, 144, 187);
+    border-radius: 5px;
+    background-color: rgb(207, 207, 202);
+}
+.product-img{
+    width: 200px;
+    height: 300px;
+    padding-left: 50px;
+    padding-top: 30px;
+}
+.product-name{
+font-family: 'Lato';
+font-size: normal;
+font-size: 21px;
+padding-left: 70px;
+}
+.product-price{
+ font-family: 'Lato';
+font-size: normal;
+font-size: 21px;
+padding-left: 70px;
+}
+

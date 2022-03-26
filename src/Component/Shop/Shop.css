@@ -3,3 +3,11 @@
     grid-template-columns: 4fr 1fr;
     
 }
+.product-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    row-gap: 60px;
+    column-gap: 0px;
+    padding-top: 150px;
+    padding-left: 20px;
+}
