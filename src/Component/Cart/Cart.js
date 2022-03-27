@@ -2,7 +2,7 @@ import React from 'react';
 import './Cart.css';
 
 const Cart = (props) => {
-    const { name } = props.item;
+    const { name, picture } = props.item;
 
 
     return (
@@ -10,6 +10,7 @@ const Cart = (props) => {
 
             <div className='cart-name'>
                 <h4>Name:{name}</h4>
+                <img className='cart-img' src={picture} alt="" />
             </div>
 
 

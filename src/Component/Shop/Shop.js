@@ -54,8 +54,8 @@ const Shop = () => {
                         item={item}
                     ></Cart>)
                 }
-                <button onClick={() => chooseForMe(cart)} > Selected one for me</button> <br />
-                <button onClick={() => chooseAgain(cart)}> Choose Again</button>
+                <button onClick={() => chooseForMe(cart)} className="btn-selected"> Selected one For me</button> <br />
+                <button onClick={() => chooseAgain(cart)} className="btn-selected"> Choose Again</button>
 
 
             </div>
