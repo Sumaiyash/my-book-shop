@@ -1,12 +1,23 @@
 import React from 'react';
 import './Cart.css';
 
-const Cart = (cart) => {
+const Cart = (props) => {
+    const { name } = props.item;
+
+    // const handelRandom = cart => {
+    //     const randomCart = cart[Math.floor(Math.random() * cart.length)];
+    //     console.log(randomCart);
+    // }
     return (
         <div>
-            <h1 className='cart-order'>Order Summary</h1>
-            <h3 className='cart-selected'>Selected Items  </h3>
-            <p> name:{cart}</p>
+
+            <div className='cart-name'>
+                <h4>Name:{name}</h4>
+            </div>
+
+
+
+
 
         </div>
     );
